@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: Syllabus section contains the subject component and information about
+  the quizzes, laboratory, grading criteria, assignments, tests.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
